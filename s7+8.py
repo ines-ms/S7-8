@@ -1,0 +1,4 @@
+hi = "Hello"
+len(hi)
+
+
